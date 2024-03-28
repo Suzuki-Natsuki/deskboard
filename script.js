@@ -1,8 +1,8 @@
 'use strict'
 
-const imgarray = ["在宅.png",
-                  "帰宅.png",
-                  "現場.png"]
+const imgarray = ["現場.png",
+                  "外出.png",
+                  "健診.png"]
 
 const selectimg = document.getElementsByTagName("img")[0];
 let displayNum = 0;
